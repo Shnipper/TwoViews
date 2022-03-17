@@ -21,7 +21,7 @@
                                 <color key="backgroundColor" systemColor="systemPinkColor"/>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PjQ-hD-VUh">
-                                <rect key="frame" x="16" y="455.5" width="382" height="390.5"/>
+                                <rect key="frame" x="16" y="458" width="382" height="390.5"/>
                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
                             </view>
                         </subviews>
@@ -29,14 +29,13 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="bVs-hz-rQ6" secondAttribute="trailing" constant="16" id="5jj-1C-AZ0"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="PjQ-hD-VUh" secondAttribute="bottom" constant="16" id="DAk-p0-uYd"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="PjQ-hD-VUh" secondAttribute="bottom" constant="13.5" id="DAk-p0-uYd"/>
                             <constraint firstItem="bVs-hz-rQ6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="H9l-xd-sSf"/>
-                            <constraint firstItem="bVs-hz-rQ6" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="IWL-ur-v6m"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="PjQ-hD-VUh" secondAttribute="trailing" constant="16" id="QgN-Te-g5r"/>
                             <constraint firstItem="bVs-hz-rQ6" firstAttribute="height" secondItem="PjQ-hD-VUh" secondAttribute="height" id="RVP-7y-uqx"/>
                             <constraint firstItem="PjQ-hD-VUh" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="S8I-c1-BDT"/>
                             <constraint firstItem="bVs-hz-rQ6" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="pMt-Hv-rYu"/>
-                            <constraint firstItem="PjQ-hD-VUh" firstAttribute="top" secondItem="bVs-hz-rQ6" secondAttribute="bottom" constant="5" id="pX1-Eb-noP"/>
+                            <constraint firstItem="PjQ-hD-VUh" firstAttribute="top" secondItem="bVs-hz-rQ6" secondAttribute="bottom" constant="7.5" id="pX1-Eb-noP"/>
                         </constraints>
                     </view>
                 </viewController>
